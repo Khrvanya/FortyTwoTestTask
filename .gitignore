@@ -35,3 +35,6 @@ conda-env
 
 # Database
 *.sqlite3
+
+# For ssh key
+.ssh
